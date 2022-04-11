@@ -3,6 +3,7 @@
 	import Accueil from '../$lib/components/Accueil.svelte';
     import Pastille from '../$lib/components/Pastille.svelte';
     import Services from '../$lib/components/Services.svelte';
+    import Banner from '../$lib/components/Banner.svelte';
 </script>
 
 <section>
@@ -12,6 +13,8 @@
 </section>
 
 <Services />
+
+<Banner />
 
 <style>
     section {
