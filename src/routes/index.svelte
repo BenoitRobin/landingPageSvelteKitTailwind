@@ -2,6 +2,7 @@
 	import Navbar from '../$lib/components/Navbar.svelte';
 	import Accueil from '../$lib/components/Accueil.svelte';
     import Pastille from '../$lib/components/Pastille.svelte';
+    import Services from '../$lib/components/Services.svelte';
 </script>
 
 <section>
@@ -10,6 +11,7 @@
     <Pastille />
 </section>
 
+<Services />
 
 <style>
     section {
