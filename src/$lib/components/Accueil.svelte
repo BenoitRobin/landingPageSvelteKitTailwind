@@ -8,10 +8,10 @@
     </p>
 
     <div class="mt-5 max-w-md mx-auto flex justify-center items-center flex-col space-y-5 sm:space-y-0 sm:flex-row md:mt-8">
-        <a href="#" class="min-w-[250px] max-h-[50px] rounded-md shadow flex items-center justify-center px-8 py-3 text-sm font-medium text-white bg-blue-600 hover:bg-blue-500 sm:text-base md:mr-3 md:min-w-fit ms:py-4 md:text-lg md:px-10 ">
+        <a href="#" class="min-w-[250px] max-h-[50px] rounded-md shadow px-8 py-3 text-sm font-medium text-white bg-blue-600 hover:bg-blue-500 sm:text-base md:mr-3 md:min-w-fit ms:py-4 md:text-lg md:px-10 ">
             Commencer 🚀
         </a>
-        <a href="#" class="min-w-[250px] max-h-[50px] rounded-md shadow flex items-center justify-center px-8 py-3 text-sm font-medium text-zinc-800 ring-1 ring-gray-200 bg-white hover:bg-gray-50 sm:text-base md:py-4 md:text-lg md:px-10">
+        <a href="#" class="min-w-[250px] max-h-[50px] rounded-md shadow px-8 py-3 text-sm font-medium text-zinc-800 ring-1 ring-gray-200 bg-white hover:bg-gray-50 sm:text-base md:py-4 md:text-lg md:px-10">
             Démo 🕹️
         </a>
     </div>
